@@ -51,7 +51,7 @@
 
 ### 📜 Dynamic Typing Animation  
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=500&lines=Front-End+Developer;Co-Founder+of+saflora;Tech+Enthusiast;Always+Learning+New+Things;Turning+Ideas+Into+Reality;Just+a+cool+guy+at+general+😎" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=500&lines=Front-End+Developer;Co-Founder+of+saflora;Always+Learning+New+Things;Turning+Ideas+Into+Reality;Just+a+cool+guy+at+general+😎" />
 </div>
 
 ---
