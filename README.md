@@ -2,15 +2,15 @@
 <div align="center">
   <img src="https://camo.githubusercontent.com/cf554c1f14413d85625e7bf8234de160e44be347b94e35ebcc6858fbd930840e/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6e6974632d7065726d697373696f6e2d73797374656d2e61707073706f742e636f6d2f6f2f6769746875622d696d61676573253246646877616e6973682d636f64696e672e6769663f616c743d6d6564696126746f6b656e3d31626634346637302d386131322d343365372d626162372d663239393262653262666632" width="220px" alt="Man using computer animation" />
   <h1 align="center">Hi there, I'm <span style="color:#4CAF50;">Rishab Thapa</span></h1>
-  <h3 align="center">💡 Co-Founder | 🎨 Front-End Developer | 🚀 Tech Enthusiast</h3>
+  <h3 align="center">💡 Co-Founder | 🎨 Front-End Developer </h3>
 </div>
 
 ---
 
 ### 🧑‍💻 About Me  
 - 💻 Passionate about building **modern & responsive UIs**  
-- 🌐 Front-End focus with exposure to **full-stack** workflows  
-- 🔥 Skilled in **React, Flutter, TypeScript, Firebase, Node.js** and more  
+- 🌐 Front-End focus with exposure to workflows  
+- 🔥 Skilled in **React, Flutter, TypeScript, Firebase** and more  
 - 🌱 Continuously learning & experimenting with **new tools**  
 - 🤝 Open for **collaborations** & **innovative projects**  
 
