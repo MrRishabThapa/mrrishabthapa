@@ -8,7 +8,7 @@
 ---
 
 ### 🧑‍💻 About Me  
-- 💻 Passionate about building **modern & responsive UIs**  
+- 💻 Intrested about building **modern & responsive UIs**  
 - 🌐 Front-End focus with exposure to workflows  
 - 🔥 Skilled in **React, Flutter, TypeScript, Firebase** and more  
 - 🌱 Continuously learning & experimenting with **new tools**  
