@@ -21,7 +21,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,flutter,nodejs,dart,firebase,php,mysql,git,tailwind,bootstrap,c&theme=light" alt="Tech stack icons" />
 </div>
 
----
 
 
 
