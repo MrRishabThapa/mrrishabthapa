@@ -1,7 +1,7 @@
 <!-- Banner Intro Section -->
 <div align="center">
   <div align="center">
-  <img src="./rishab-banner.png" alt="Rishab Thapa - Front-End Developer" width="100%"/>
+  <img src="./rishab-bnner.png" alt="Rishab Thapa - Front-End Developer" width="100%"/>
 </div>
 </div>
 
