@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  I'm a front-end developer passionate about crafting modern, responsive, and user-friendly interfaces. As Co-Founder of <strong>Arcademia</strong>, I enjoy turning ideas into real, scalable products. I work primarily with React, Flutter, and TypeScript, and I'm always exploring new tools and workflows to sharpen my craft.
+  I'm a front-end developer all about crafting modern, responsive, and user-friendly interfaces. As Co-Founder of <strong>Arcademia</strong>, I enjoy turning ideas into real, scalable products. I work primarily with React, Flutter, and TypeScript, and I'm always exploring new tools and workflows to sharpen my craft.
 </p>
 
 ---
