@@ -14,7 +14,7 @@
 ### About Me
 - Building modern & responsive user interfaces
 - Front-End focused with experience in full development workflows
-- Skilled in **React, Flutter, TypeScript, Firebase**, and more
+- Skilled in **React, Next, Flutter, TypeScript, Firebase**, and more
 - Continuously learning and experimenting with new technologies
 - Open to **collaborations** and **innovative projects**
 
