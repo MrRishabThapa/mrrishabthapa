@@ -42,7 +42,7 @@
 
 ### What I Do
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=500&lines=Front-End+Developer;Co-Founder+of+Saflora;Always+Learning+New+Things;Turning+Ideas+Into+Reality" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=500&lines=Front-End+Developer;Co-Founder+of+Arcademia;Always+Learning+New+Things;Turning+Ideas+Into+Reality" />
 </div>
 
 ---
