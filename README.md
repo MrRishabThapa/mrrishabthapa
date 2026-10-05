@@ -36,7 +36,7 @@
 ---
 
 ### Contribution Activity
-   <img src="https://ghchart.rshah.org/00C9A7/MrRishabThapa" width="95%" alt="Contribution graph"/>
+   <img src="https://your-project.vercel.app/graph?username=MrRishabThapa&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20(Last%20Month)&days=30" width="95%"/>
 ---
 
 ### What I Do
