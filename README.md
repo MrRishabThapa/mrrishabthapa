@@ -36,8 +36,8 @@
 ---
 
 ### Contribution Activity
-   <img src="https://your-project.vercel.app/graph?username=MrRishabThapa&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20(Last%20Month)&days=30" width="95%"/>
----
+  <img src="https://github-readme-activity-graph-theta-liard.vercel.app/graph?username=MrRishabThapa&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20(Last%20Month)&days=30" width="95%" alt="Contribution Activity Graph"/>
+
 
 ### What I Do
 <div align="center">
