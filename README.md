@@ -16,7 +16,7 @@
 - Front-End focused with experience in full development workflows
 - Skilled in **React, Next, Flutter, TypeScript, Firebase**, and more
 - Continuously learning and experimenting with new technologies
-- Open to **collaborations** and **innovative projects**
+- Open to **collaborations** 
 
 ---
 
