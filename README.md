@@ -36,7 +36,7 @@
 ---
 
 ### Contribution Activity
-  <img src="https://github-readme-activity-graph-theta-liard.vercel.app/graph?username=MrRishabThapa&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20(Last%20Month)&days=60" width="95%" alt="Contribution Activity Graph"/>
+  <img src="https://github-readme-activity-graph-theta-liard.vercel.app/graph?username=MrRishabThapa&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20(Last%20Month)&days=50" width="98%" alt="Contribution Activity Graph"/>
 
 
 ### What I Do
