@@ -39,25 +39,4 @@
   <img src="https://github-readme-activity-graph-theta-liard.vercel.app/graph?username=MrRishabThapa&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20(Last%2050%20days)&days=50" width="98%" alt="Contribution Activity Graph"/>
 
 
-### What I Do
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=500&lines=Front-End+Developer;Co-Founder+of+Arcademia;Always+Learning+New+Things;Turning+Ideas+Into+Reality" />
-</div>
 
----
-
-### Connect With Me
-<div align="center">
-  <a href="mailto:rishabthapa7777@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rishab-thapa-0ba327341/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/>
-  </a>
-  <a href="https://www.instagram.com/_rishabthapa7/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="32"/>
-  </a>
-  <a href="https://www.rishabthapa.com.np" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" height="32"/>
-  </a>
-</div>
