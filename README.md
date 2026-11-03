@@ -30,7 +30,7 @@
 ### GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MrRishabThapa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170px"/>
-  <img src="https://streak-stats.demolab.com?user=MrRishabThapa&theme=tokyonight&hide_border=true" height="170px"/>
+  <img src="https://streak-stats.demolab.com/?user=MrRishabThapa&theme=tokyonight&hide_border=true%22%20height=%22170px/>
 </div>
 
 ---
