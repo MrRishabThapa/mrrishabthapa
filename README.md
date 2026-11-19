@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  I'm a front-end developer passionate about building modern, responsive, and user-friendly interfaces. As Co-Founder of <strong>Arcademia</strong>, I enjoy turning ideas into real, scalable products. I work primarily with React, Next.js, and TypeScript, and I'm always exploring new tools and workflows to sharpen my skills. Currently taking part in an entrepreneur challenge on social media.
+  I'm a front-end developer excited about building modern, responsive, and user-friendly interfaces. As Co-Founder of <strong>Arcademia</strong>, I enjoy turning ideas into real, scalable products. I work primarily with React, Next.js, and TypeScript, and I'm always exploring new tools and workflows to sharpen my skills. Currently taking part in an entrepreneur challenge on social media.
 </p>
 
 ---
@@ -13,7 +13,7 @@
 
 - Building modern & responsive user interfaces
 - Front-end focused, with experience in full development workflows
-- Skilled in **React, Next.js, Flutter, TypeScript, Firebase**, and more
+- Skilled in **React, Next.js, TypeScript, Firebase**, and more
 - Continuously learning and experimenting with new technologies
 - Open to **collaborations**
 
